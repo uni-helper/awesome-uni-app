@@ -45,7 +45,7 @@
 [vue2/3]: https://img.shields.io/badge/-2%2f3-35495e?logo=vue.js
 [vite]: https://img.shields.io/badge/-Vite-646CFF
 [vue-cli]: https://img.shields.io/badge/-Vue%20Cli-3eb782
-[nvue]: https://img.shields.io/badge/-NVue-18a058
+[nvue]: https://img.shields.io/badge/-!NVue-ff0000
 
 在下面的内容中，我们使用徽章来指示部分组件、库、插件的版本、平台、语言兼容性，其中徽章的颜色和开头用来表示支持程度。
 
@@ -58,17 +58,23 @@
   - ![vue-cli] 仅支持 Vue Cli
   - ![vite] 仅支持 Vite
 - 平台兼容性，由于平台涉及比较多，具体兼容性在仓库的 Readme 中声明
-- 写法兼容性
-  - ![nvue] 支持 nvue 渲染
+- 写法兼容性，没有则都兼容
+  - ![nvue] 不支持 nvue 渲染
+
+## Lib 库
+
+- [axios-adapter](https://github.com/uni-helper/axios-adapter) - 一个用于 uni-app 的 Axios 适配器
+- [uni-network](https://github.com/uni-helper/uni-network) - 为 uni-app 打造的基于 Promise 的 HTTP 客户端。
+
+## 组件库
+
+- [uni-ui](https://github.com/dcloudio/uni-ui) - 基于 uni-app 的、全端兼容的、高性能 UI 框架
+- ![vue2] [uView](https://github.com/umicro/uView) - 是 uni-app 生态优秀的 UI 框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
 
 ## 插件
 
 - ![vite] [vite-plugin-uni-pages](https://github.com/uni-helper/vite-plugin-uni-pages) - 在 uni-app 上使用基于文件的路由系统
 
-## Lib 库
+## 其他
 
-- ![nvue] [axios-adapter](https://github.com/uni-helper/axios-adapter) - 一个用于 uni-app 的 Axios 适配器
-
-## 组件库
-
-- ![nvue] [uni-ui](https://github.com/dcloudio/uni-ui) - 基于 uni-app 的、全端兼容的、高性能 UI 框架
+- [uni-app-types](https://github.com/uni-helper/uni-app-types) - Types for uni-app components

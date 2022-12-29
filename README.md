@@ -46,6 +46,8 @@
 [vite]: https://img.shields.io/badge/-Vite-646CFF
 [vue-cli]: https://img.shields.io/badge/-Vue%20Cli-3eb782
 [nvue]: https://img.shields.io/badge/-!NVue-ff0000
+[vscode]: https://img.shields.io/badge/-VSCode-3c7fba?logo=visual-studio-code
+[typescript]: https://img.shields.io/npm/types/typescript
 
 在下面的内容中，我们使用徽章来指示部分组件、库、插件的版本、平台、语言兼容性，其中徽章的颜色和开头用来表示支持程度。
 
@@ -64,17 +66,33 @@
 ## Lib 库
 
 - [axios-adapter](https://github.com/uni-helper/axios-adapter) - 一个用于 uni-app 的 Axios 适配器
-- [uni-network](https://github.com/uni-helper/uni-network) - 为 uni-app 打造的基于 Promise 的 HTTP 客户端。
+- [uni-network](https://github.com/uni-helper/uni-network) - 为 uni-app 打造的基于 Promise 的 HTTP 客户端
+- [uni-promises](https://github.com/uni-helper/uni-promises) - uni-app promise 化的 API
+- ![vue3] [uni-use](https://github.com/uni-helper/uni-use) - uni-app 组合式工具集
+- [uni-deploy](https://github.com/uni-helper/uni-deploy) - 自动化部署 uni-app 应用
 
 ## 组件库
 
 - [uni-ui](https://github.com/dcloudio/uni-ui) - 基于 uni-app 的、全端兼容的、高性能 UI 框架
-- ![vue2] [uView](https://github.com/umicro/uView) - 是 uni-app 生态优秀的 UI 框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
+- ![vue2] [uview 2.0](https://github.com/umicro/uView2.0) - 全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
+- ![vue3] [uview-plus](https://github.com/ijry/uview-plus) - fork 自 uview 2.0，全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水
+- [thor-ui](https://github.com/dingyong0214/ThorUI-uniapp) - 轻量、简洁的移动端组件库
 
-## 插件
+## 打包器插件
 
 - ![vite] [vite-plugin-uni-pages](https://github.com/uni-helper/vite-plugin-uni-pages) - 在 uni-app 上使用基于文件的路由系统
+- ![vite] [vite-plugin-uni-tailwind](https://github.com/uni-helper/vite-plugin-uni-tailwind) - 支持在 uni-app 中使用 tailwindcss v3 原有语法开发小程序
 
-## 其他
+## 编辑器 / IDE 插件
 
-- [uni-app-types](https://github.com/uni-helper/uni-app-types) - Types for uni-app components
+- ![vscode] [uni-helper-vscode](https://github.com/uni-helper/uni-helper-vscode) - 增强 uni-app 系列产品在 VSCode 内的体验
+- ![vscode] [uni-app-schemas-vscode](https://github.com/uni-helper/uni-app-schemas-vscode) - 校验 uni-app 中的 androidPrivacy.json、pages.json 和 manifest.json 格式
+- ![vscode] [uni-app-snippets-vscode](https://github.com/uni-helper/uni-app-snippets-vscode) - uni-app 基本能力代码片段
+- ![vscode] [uni-cloud-snippets-vscode](https://github.com/uni-helper/uni-cloud-snippets-vscode) - uni-cloud 基本能力代码片段
+- ![vscode] [uni-ui-snippets-vscode](https://github.com/uni-helper/uni-ui-snippets-vscode) - uni-ui 基本能力代码片段
+
+## 类型
+
+- ![typescript] [uni-app-types](https://github.com/uni-helper/uni-app-types) - uni-app 组件类型
+- ![typescript] [uni-cloud-types](https://github.com/uni-helper/uni-cloud-types) - uni-cloud 组件类型
+- ![typescript] [uni-ui-types](https://github.com/uni-helper/uni-ui-types) - uni-ui 组件类型

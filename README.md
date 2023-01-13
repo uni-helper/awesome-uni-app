@@ -65,7 +65,7 @@
 
 ## 演示
 
-- [hello-uniapp](https://github.com/dcloudio/hello-uniapp) - uni-app 官方模板。
+- [hello-uniapp](https://github.com/dcloudio/hello-uniapp) - uni-app 框架演示示例
 
 ## Lib 工具库
 

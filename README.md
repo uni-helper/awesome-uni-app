@@ -34,16 +34,10 @@
 - [官方论坛](https://ask.dcloud.net.cn/explore/category-12)
 - [官方 Issues](https://github.com/dcloudio/uni-app/issues)
 
-## 模板
-
-- [uni-preset-vue](https://github.com/dcloudio/uni-preset-vue) - uni-app 官方模板。
-- [starter-uni](https://github.com/zguolee/starter-uni) - 一个使用 Vue3 + Vite + UnoCSS + AnoUI 的 uni-app 开始模版。
-
 ---
 
 [vue3]: https://img.shields.io/badge/-3-35495e?logo=vue.js
 [vue2]: https://img.shields.io/badge/-2-35495e?logo=vue.js
-[vue2/3]: https://img.shields.io/badge/-2%2f3-35495e?logo=vue.js
 [vite]: https://img.shields.io/badge/-Vite-646CFF
 [vue-cli]: https://img.shields.io/badge/-Vue%20Cli-3eb782
 [nvue]: https://img.shields.io/badge/-!NVue-ff0000
@@ -63,6 +57,15 @@
 - 平台兼容性，由于平台涉及比较多，具体兼容性在仓库的 Readme 中声明
 - 写法兼容性，没有则都兼容
   - ![nvue] 不支持 nvue 渲染
+
+## 模板
+
+- [uni-preset-vue](https://github.com/dcloudio/uni-preset-vue) - uni-app 官方模板。
+- ![vue3] [starter-uni](https://github.com/zguolee/starter-uni) - 一个使用 Vue3 + Vite + UnoCSS + AnoUI 的 uni-app 开始模版。
+
+## 演示
+
+- [hello-uniapp](https://github.com/dcloudio/hello-uniapp) - uni-app 官方模板。
 
 ## Lib 工具库
 

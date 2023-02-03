@@ -80,8 +80,9 @@
 - [uni-ui](https://github.com/dcloudio/uni-ui) - 基于 uni-app 的、全端兼容的、高性能 UI 框架。
 - ![vue2] [uview 2.0](https://github.com/umicro/uView2.0) - 全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
 - ![vue3] [uview-plus](https://github.com/ijry/uview-plus) - fork 自 uview 2.0，全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
-- [thor-ui](https://github.com/dingyong0214/ThorUI-uniapp) - 轻量、简洁的移动端组件库。
+- [thorui-uni](https://github.com/dingyong0214/ThorUI-uniapp) - 轻量、简洁的移动端组件库。
 - ![vue3] [ano-ui](https://github.com/ano-ui/ano-ui) - 一个使用 UnoCSS 的组件库。
+- [firstui-uni](https://doc.firstui.cn/) - 基于 uni-app 开发的组件化、可复用、易扩展、低耦合的跨平台移动端 UI 组件库。
 
 ## 打包器插件
 

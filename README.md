@@ -62,6 +62,7 @@
 
 - [uni-preset-vue](https://github.com/dcloudio/uni-preset-vue) - uni-app 官方模板。
 - ![vue3] [starter-uni](https://github.com/zguolee/starter-uni) - 一个使用 Vue3 + Vite + UnoCSS + AnoUI 的 uni-app 开始模版。
+- ![vue3] [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) - 由 uni-helper 支持的开始模板。
 
 ## 演示
 

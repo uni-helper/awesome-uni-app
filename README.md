@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="250" src="assets/logo.svg" alt="Awesome Uni-App">
+  <img width="250" src="./assets/logo.svg" alt="Awesome Uni-App">
   <br>
   <br>
 </p>

@@ -84,12 +84,17 @@
 - [thorui-uni](https://github.com/dingyong0214/ThorUI-uniapp) - 轻量、简洁的移动端组件库。
 - ![vue3] [ano-ui](https://github.com/ano-ui/ano-ui) - 一个使用 UnoCSS 的组件库。
 - [firstui-uni](https://doc.firstui.cn/) - 基于 uni-app 开发的组件化、可复用、易扩展、低耦合的跨平台移动端 UI 组件库。
+- ![vue3] [uniapp-nutui](https://github.com/yang1206/uniapp-nutui) - 京东风格的轻量级移动端组件库，支持移动端 H5 和 小程序开发。
 
 ## 打包器插件
 
 - ![vite] [vite-plugin-uni-pages](https://github.com/uni-helper/vite-plugin-uni-pages) - 在 uni-app 上使用基于文件的路由系统。
 - ![vite] [vite-plugin-uni-tailwind](https://github.com/uni-helper/vite-plugin-uni-tailwind) - 支持在 uni-app 中使用 tailwindcss v3 语法。
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet) - 在小程序中使用 UnoCSS，兼容不支持的语法。
+- ![vite] [vite-plugin-uni-layouts](https://github.com/uni-helper/vite-plugin-uni-layouts) - 为 Vite 下的 uni-app 提供类 nuxt 的 layouts 系统
+- ![vite] [vite-plugin-uni-manifest](https://github.com/uni-helper/vite-plugin-uni-manifest) - 使用 TypeScript 来编写 uni-app 的 manifest.json
+- ![vite] [vite-plugin-uni-platform](https://github.com/uni-helper/vite-plugin-uni-platform) - 基于文件名 (*.<h5|mp-weixin|app>.*) 的按平台编译插件
+- ![vite] [vite-plugin-uni-components](https://github.com/uni-helper/vite-plugin-uni-components) - 适用于 uni-app 的按需自动引入组件
 
 ## 编辑器 / IDE 插件
 
@@ -98,6 +103,7 @@
 - ![vscode] [uni-app-snippets-vscode](https://github.com/uni-helper/uni-app-snippets-vscode) - uni-app 基本能力代码片段。
 - ![vscode] [uni-cloud-snippets-vscode](https://github.com/uni-helper/uni-cloud-snippets-vscode) - uni-cloud 基本能力代码片段。
 - ![vscode] [uni-ui-snippets-vscode](https://github.com/uni-helper/uni-ui-snippets-vscode) - uni-ui 基本能力代码片段。
+- ![vscode] [uni-highlight-vscode](https://github.com/uni-helper/uni-highlight-vscode) - 对条件编译的代码注释部分提供了语法提示、高亮、折叠
 
 ## 类型
 

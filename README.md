@@ -86,9 +86,8 @@
 - [thorui-uni](https://github.com/dingyong0214/ThorUI-uniapp) - 轻量、简洁的移动端组件库。
 - ![vue3] [ano-ui](https://github.com/ano-ui/ano-ui) - 一个使用 UnoCSS 的组件库。
 - [firstui-uni](https://doc.firstui.cn/) - 基于 uni-app 开发的组件化、可复用、易扩展、低耦合的跨平台移动端 UI 组件库。
-- ![vue3] [uniapp-nutui](https://github.com/yang1206/uniapp-nutui) - 京东风格的轻量级移动端组件库，支持移动端 H5 和 小程序开发。
-- [uv-ui](https://github.com/climblee/uv-ui) - uv-ui 破釜沉舟之兼容vue3+2、app、h5、小程序等多端基于uni-app和uView2.x的生态框架，支持单独导入，开箱即用，利剑出击。
 - ![vue3] [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp) - 京东风格的轻量级移动端组件库，基于 uniapp与Vue3，支持移动端 H5 和 小程序开发
+- [uv-ui](https://github.com/climblee/uv-ui) - uv-ui 破釜沉舟之兼容vue3+2、app、h5、小程序等多端基于uni-app和uView2.x的生态框架，支持单独导入，开箱即用，利剑出击。
 - ![vue3] [vin-ui](https://github.com/vingogo/vin-ui) - 京东(nutui)风格的移动端 Vue3 组件库 、支持多端小程序(uniapp版本)
 - [uv-ui](https://github.com/climblee/uv-ui) - 兼容vue3+2多平台快速开发的UI框架
 

@@ -84,12 +84,11 @@
 - ![vue2] [uview 2.0](https://github.com/umicro/uView2.0) - 全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
 - ![vue3] [uview-plus](https://github.com/ijry/uview-plus) - fork 自 uview 2.0，全面兼容 nvue 的 uni-app 生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。
 - [thorui-uni](https://github.com/dingyong0214/ThorUI-uniapp) - 轻量、简洁的移动端组件库。
-- ![vue3] [ano-ui](https://github.com/ano-ui/ano-ui) - 一个使用 UnoCSS 的组件库。
+- ![vue3] [ano-ui](https://github.com/ano-ui/ano-ui) - 轻量级、漂亮、快速的 UnoCSS 组件库。
 - [firstui-uni](https://doc.firstui.cn/) - 基于 uni-app 开发的组件化、可复用、易扩展、低耦合的跨平台移动端 UI 组件库。
 - ![vue3] [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp) - 京东风格的轻量级移动端组件库，基于 uniapp与Vue3，支持移动端 H5 和 小程序开发
 - [uv-ui](https://github.com/climblee/uv-ui) - uv-ui 破釜沉舟之兼容vue3+2、app、h5、小程序等多端基于uni-app和uView2.x的生态框架，支持单独导入，开箱即用，利剑出击。
-- ![vue3] [vin-ui](https://github.com/vingogo/vin-ui) - 京东(nutui)风格的移动端 Vue3 组件库 、支持多端小程序(uniapp版本)
-- [uv-ui](https://github.com/climblee/uv-ui) - 兼容vue3+2多平台快速开发的UI框架
+- ![vue3] [vin-ui](https://github.com/vingogo/vin-ui) - 京东(nutui)风格的移动端 Vue3 组件库 、支持多端小程序(uniapp版本)。
 
 ## 打包器插件
 

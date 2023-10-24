@@ -5,7 +5,7 @@
   <br>
 </p>
 
-<h2 align='center'>Awesome Uni-App</h2>
+<h2 align='center'>Awesome uni-app</h2>
 
 <p align='center'>
 多端统一开发框架 <a href='https://github.com/dcloudio/uni-app'>uni-app</a> 优秀开发资源汇总

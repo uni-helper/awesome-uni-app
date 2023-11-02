@@ -89,15 +89,17 @@
 - ![vue3] [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp) - 京东风格的轻量级移动端组件库，基于 uniapp与Vue3，支持移动端 H5 和 小程序开发
 - [uv-ui](https://github.com/climblee/uv-ui) - uv-ui 破釜沉舟之兼容vue3+2、app、h5、小程序等多端基于uni-app和uView2.x的生态框架，支持单独导入，开箱即用，利剑出击。
 - ![vue3] [vin-ui](https://github.com/vingogo/vin-ui) - 京东(nutui)风格的移动端 Vue3 组件库 、支持多端小程序(uniapp版本)。
-
+- ![vue3] [wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni) - 一个参照Wot-design打造的uni-app组件库。
+- 
 ## 打包器插件
 
 - ![vite] [vite-plugin-uni-pages](https://github.com/uni-helper/vite-plugin-uni-pages) - 在 uni-app 上使用基于文件的路由系统。
 - ![vite] [vite-plugin-uni-tailwind](https://github.com/uni-helper/vite-plugin-uni-tailwind) - 支持在 uni-app 中使用 tailwindcss v3 语法。
-- ![vite] [vite-plugin-uni-layouts](https://github.com/uni-helper/vite-plugin-uni-layouts) - 为 Vite 下的 uni-app 提供类 nuxt 的 layouts 系统
-- ![vite] [vite-plugin-uni-manifest](https://github.com/uni-helper/vite-plugin-uni-manifest) - 使用 TypeScript 来编写 uni-app 的 manifest.json
-- ![vite] [vite-plugin-uni-platform](https://github.com/uni-helper/vite-plugin-uni-platform) - 基于文件名 (*.<h5|mp-weixin|app>.*) 的按平台编译插件
-- ![vite] [vite-plugin-uni-components](https://github.com/uni-helper/vite-plugin-uni-components) - 适用于 uni-app 的按需自动引入组件
+- ![vite] [vite-plugin-uni-layouts](https://github.com/uni-helper/vite-plugin-uni-layouts) - 为 Vite 下的 uni-app 提供类 nuxt 的 layouts 系统。
+- ![vite] [vite-plugin-uni-manifest](https://github.com/uni-helper/vite-plugin-uni-manifest) - 使用 TypeScript 来编写 uni-app 的 manifest.json。
+- ![vite] [vite-plugin-uni-platform](https://github.com/uni-helper/vite-plugin-uni-platform) - 基于文件名 (*.<h5|mp-weixin|app>.*) 的按平台编译插件。
+- ![vite] [vite-plugin-uni-components](https://github.com/uni-helper/vite-plugin-uni-components) - 适用于 uni-app 的按需自动引入组件。
+- ![vite] [vite-plugin-uni-platform-modifier](https://github.com/uni-helper/vite-plugin-uni-platform-modifier) - 为属性、指令提供平台修饰符并按需编译。
 
 ## 编辑器 / IDE 插件
 

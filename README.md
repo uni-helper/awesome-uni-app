@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/11247099/112722104-819b8a80-8f42-11eb-82f5-dfc2dd5d8a77.png" height="32" />
 
-使用左上角的“目录”菜单来浏览列表。
+使用右上角的“目录”菜单来浏览列表。
 
 ## 官方资源
 
@@ -57,6 +57,10 @@
 - 平台兼容性，由于平台涉及比较多，具体兼容性在仓库的 Readme 中声明
 - 写法兼容性，没有则都兼容
   - ![nvue] 不支持 nvue 渲染
+
+## Cli
+
+- ![vite] ![vue3] [create-uni](https://github.com/uni-helper/create-uni) 🛠️快速创建uni-app项目
 
 ## 模板
 

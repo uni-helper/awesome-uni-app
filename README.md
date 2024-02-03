@@ -94,7 +94,8 @@
 - [uv-ui](https://github.com/climblee/uv-ui) - uv-ui 破釜沉舟之兼容vue3+2、app、h5、小程序等多端基于uni-app和uView2.x的生态框架，支持单独导入，开箱即用，利剑出击。
 - ![vue3] [vin-ui](https://github.com/vingogo/vin-ui) - 京东(nutui)风格的移动端 Vue3 组件库 、支持多端小程序(uniapp版本)。
 - ![vue3] [wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni) - 一个参照 Wot-design 打造的 uni-app 组件库。
-- [tuniaoui](https://github.com/tuniaoTech/tuniaoui-rc-vue3-uniapp) - 酷炫简洁UI 使用Typescrip进行开发，提供了丰富的组件进行快速开发
+- ![vue2] [tuniaoui-vue2](https://github.com/ahua666/tuniaoUI) - 基于uni-app进行开发的UI框架，提供丰富的组件进行快速开发
+- ![vue3] [tuniaoui-vue3](https://github.com/tuniaoTech/tuniaoui-rc-vue3-uniapp) - 酷炫简洁UI 使用TypeScript进行开发，提供了丰富的组件进行快速开发
 ## 打包器插件
 
 - ![vite] [vite-plugin-uni-pages](https://github.com/uni-helper/vite-plugin-uni-pages) - 在 uni-app 上使用基于文件的路由系统。

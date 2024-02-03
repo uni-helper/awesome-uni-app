@@ -78,9 +78,8 @@
 - [uni-network](https://github.com/uni-helper/uni-network) - 为 uni-app 打造的基于 Promise 的 HTTP 客户端。
 - [uni-promises](https://github.com/uni-helper/uni-promises) - uni-app Promise 化 API。
 - ![vue3] [uni-use](https://github.com/uni-helper/uni-use) - uni-app 组合式工具集。
-- [uni-deploy](https://github.com/uni-helper/uni-deploy) - 自动化部署 uni-app 应用。
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet) - 在小程序中使用 UnoCSS，兼容不支持的语法。
-- [unocss-preset-uni](https://github.com/uni-helper/unocss-preset-uni) - 专为 uni-app 打造的 UnoCSS 预设
+- [unocss-preset-uni](https://github.com/uni-helper/unocss-preset-uni) - 专为 uni-app 打造的 UnoCSS 预设。
 
 ## UI 组件库
 
@@ -90,12 +89,13 @@
 - [thorui-uni](https://github.com/dingyong0214/ThorUI-uniapp) - 轻量、简洁的移动端组件库。
 - ![vue3] [ano-ui](https://github.com/ano-ui/ano-ui) - 轻量级、漂亮、快速的 UnoCSS 组件库。
 - [firstui-uni](https://doc.firstui.cn/) - 基于 uni-app 开发的组件化、可复用、易扩展、低耦合的跨平台移动端 UI 组件库。
-- ![vue3] [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp) - 京东风格的轻量级移动端组件库，基于 uniapp与Vue3，支持移动端 H5 和 小程序开发
-- [uv-ui](https://github.com/climblee/uv-ui) - uv-ui 破釜沉舟之兼容vue3+2、app、h5、小程序等多端基于uni-app和uView2.x的生态框架，支持单独导入，开箱即用，利剑出击。
-- ![vue3] [vin-ui](https://github.com/vingogo/vin-ui) - 京东(nutui)风格的移动端 Vue3 组件库 、支持多端小程序(uniapp版本)。
+- ![vue3] [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp) - 京东风格的轻量级移动端组件库，基于 uniapp 与 Vue3，支持移动端 H5 和 小程序开发
+- [uv-ui](https://github.com/climblee/uv-ui) - uv-ui 破釜沉舟之兼容 vue3+2、app、H5、小程序等多端基于 uni-app 和 uView2.x 的生态框架，支持单独导入，开箱即用，利剑出击。
+- ![vue3] [vin-ui](https://github.com/vingogo/vin-ui) - 京东（nutui）风格的移动端 Vue3 组件库 、支持多端小程序（uniapp版本）。
 - ![vue3] [wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni) - 一个参照 Wot-design 打造的 uni-app 组件库。
-- ![vue2] [tuniaoui-vue2](https://github.com/ahua666/tuniaoUI) - 基于uni-app进行开发的UI框架，提供丰富的组件进行快速开发
-- ![vue3] [tuniaoui-vue3](https://github.com/tuniaoTech/tuniaoui-rc-vue3-uniapp) - 酷炫简洁UI 使用TypeScript进行开发，提供了丰富的组件进行快速开发
+- ![vue2] [tuniaoui-vue2](https://github.com/ahua666/tuniaoUI) - 基于 uni-app 进行开发的 UI 框架，提供丰富的组件进行快速开发。
+- ![vue3] [tuniaoui-vue3](https://github.com/tuniaoTech/tuniaoui-rc-vue3-uniapp) - 酷炫简洁 UI，使用 TypeScript 进行开发，提供了丰富的组件进行快速开发。
+
 ## 打包器插件
 
 - ![vite] [vite-plugin-uni-pages](https://github.com/uni-helper/vite-plugin-uni-pages) - 在 uni-app 上使用基于文件的路由系统。
@@ -113,7 +113,7 @@
 - ![vscode] [uni-app-snippets-vscode](https://github.com/uni-helper/uni-app-snippets-vscode) - uni-app 基本能力代码片段。
 - ![vscode] [uni-cloud-snippets-vscode](https://github.com/uni-helper/uni-cloud-snippets-vscode) - uni-cloud 基本能力代码片段。
 - ![vscode] [uni-ui-snippets-vscode](https://github.com/uni-helper/uni-ui-snippets-vscode) - uni-ui 基本能力代码片段。
-- ![vscode] [uni-highlight-vscode](https://github.com/uni-helper/uni-highlight-vscode) - 对条件编译的代码注释部分提供了语法提示、高亮、折叠
+- ![vscode] [uni-highlight-vscode](https://github.com/uni-helper/uni-highlight-vscode) - 对条件编译的代码注释部分提供了语法提示、高亮、折叠。
 
 ## 类型
 

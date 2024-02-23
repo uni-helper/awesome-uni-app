@@ -92,7 +92,7 @@
 - ![vue3] [nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp) - 京东风格的轻量级移动端组件库，基于 uniapp 与 Vue3，支持移动端 H5 和 小程序开发
 - [uv-ui](https://github.com/climblee/uv-ui) - uv-ui 破釜沉舟之兼容 vue3+2、app、H5、小程序等多端基于 uni-app 和 uView2.x 的生态框架，支持单独导入，开箱即用，利剑出击。
 - ![vue3] [vin-ui](https://github.com/vingogo/vin-ui) - 京东（nutui）风格的移动端 Vue3 组件库 、支持多端小程序（uniapp版本）。
-- ![vue3] [wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni) - 一个参照 Wot-design 打造的 uni-app 组件库。
+- ![vue3] [wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni) - 一个基于Vue3+TS开发的uni-app组件库，提供60+高质量组件，支持暗黑模式、国际化和自定义主题。
 - ![vue2] [tuniaoui-vue2](https://github.com/ahua666/tuniaoUI) - 基于 uni-app 进行开发的 UI 框架，提供丰富的组件进行快速开发。
 - ![vue3] [tuniaoui-vue3](https://github.com/tuniaoTech/tuniaoui-rc-vue3-uniapp) - 酷炫简洁 UI，使用 TypeScript 进行开发，提供了丰富的组件进行快速开发。
 

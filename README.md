@@ -67,6 +67,7 @@
 - [uni-preset-vue](https://github.com/dcloudio/uni-preset-vue) ![stars](https://img.shields.io/github/stars/dcloudio/uni-preset-vue) - uni-app 官方模板。
 - ![vue3] [starter-uni](https://github.com/zguolee/starter-uni) ![stars](https://img.shields.io/github/stars/zguolee/starter-uni) - 一个使用 Vue3 + Vite + UnoCSS + AnoUI 的 uni-app 开始模版。
 - ![vue3] [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) ![stars](https://img.shields.io/github/stars/uni-helper/vitesse-uni-app) - 由 uni-helper 支持的开始模板。
+- ![vue3] [vitesse-uniapp-vue3](https://github.com/sunpm/vitesse-uniapp-vue3) ![stars](https://img.shields.io/github/stars/sunpm/vitesse-uniapp-vue3) - 基于Uniapp、Vue 3、pinia(且持久化保存)、Typescript、UnoCSS等主流技术开发的开箱即用模版。
 
 ## 演示
 

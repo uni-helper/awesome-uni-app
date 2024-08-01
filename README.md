@@ -52,7 +52,7 @@
   - ![vue2] 仅支持 Vue 2
 
 - 打包器兼容性，没有则都兼容
-  - ![vue-cli] 仅支持 Vue Cli
+  - ![vue-cli] 仅支持 Vue CLI
   - ![vite] 仅支持 Vite
 - 平台兼容性，由于平台涉及比较多，具体兼容性在仓库的 Readme 中声明
 - 写法兼容性，没有则都兼容
@@ -65,9 +65,12 @@
 ## 模板
 
 - [uni-preset-vue](https://github.com/dcloudio/uni-preset-vue) ![stars](https://img.shields.io/github/stars/dcloudio/uni-preset-vue) - uni-app 官方模板。
-- ![vue3] [starter-uni](https://github.com/zguolee/starter-uni) ![stars](https://img.shields.io/github/stars/zguolee/starter-uni) - 一个使用 Vue3 + Vite + UnoCSS + AnoUI 的 uni-app 开始模版。
+<!-- - ![vue3] [starter-uni](https://github.com/zguolee/starter-uni) ![stars](https://img.shields.io/github/stars/zguolee/starter-uni) - 一个使用 Vue3 + Vite + UnoCSS + AnoUI 的 uni-app 开始模版。 -->
 - ![vue3] [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) ![stars](https://img.shields.io/github/stars/uni-helper/vitesse-uni-app) - 由 uni-helper 支持的开始模板。
-- ![vue3] [vitesse-uniapp-vue3](https://github.com/sunpm/vitesse-uniapp-vue3) ![stars](https://img.shields.io/github/stars/sunpm/vitesse-uniapp-vue3) - 基于Uniapp、Vue 3、pinia(且持久化保存)、Typescript、UnoCSS等主流技术开发的开箱即用模版。
+- ![vue3] [vitesse-uniapp-vue3](https://github.com/sunpm/vitesse-uniapp-vue3) ![stars](https://img.shields.io/github/stars/sunpm/vitesse-uniapp-vue3) - 基于 uni-app、Vue 3、pinia（持久化保存）、Typescript、UnoCSS 等主流技术开发的开箱即用模版。
+- ![vue3] [uniapp-template](https://github.com/yang1206/uniapp-template) ![stars](https://img.shields.io/github/stars/yang1206/uniapp-template) - 基于 Vite、UnoCSS 和 TypeScript 的 uni-app 起始模版。
+- ![vue3] [wot-starter](https://github.com/Moonofweisheng/wot-starter) ![stars](https://img.shields.io/github/stars/Moonofweisheng/wot-starter) - 基于 wot-design-uni 的 uni-app 快速启动模板。
+- ![vue3] [unibest](https://github.com/codercup/unibest) ![stars](https://img.shields.io/github/stars/codercup/unibest) - uni-app 开发框架，内置大量基础功能，提供大量辅助功能。
 
 ## 演示
 

@@ -84,6 +84,7 @@
 - ![vue3] [uni-use](https://github.com/uni-helper/uni-use) ![stars](https://img.shields.io/github/stars/uni-helper/uni-use) - uni-app 组合式工具集。
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet) ![stars](https://img.shields.io/github/stars/unocss-applet/unocss-applet) - 在小程序中使用 UnoCSS，兼容不支持的语法。
 - [unocss-preset-uni](https://github.com/uni-helper/unocss-preset-uni) ![stars](https://img.shields.io/github/stars/uni-helper/unocss-preset-uni) - 专为 uni-app 打造的 UnoCSS 预设。
+- [uni-use-router](https://github.com/Ares-Chang/uni-use-router) ![stars](https://img.shields.io/github/stars/Ares-Chang/uni-use-router) - UniApp 路由跳转补充，与 Vue Router 语法靠近。
 
 ## UI 组件库
 

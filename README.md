@@ -71,7 +71,7 @@
 - ![vue3] [uniapp-template](https://github.com/yang1206/uniapp-template) ![stars](https://img.shields.io/github/stars/yang1206/uniapp-template) - 基于 Vite、UnoCSS 和 TypeScript 的 uni-app 起始模版。
 - ![vue3] [wot-starter](https://github.com/Moonofweisheng/wot-starter) ![stars](https://img.shields.io/github/stars/Moonofweisheng/wot-starter) - 基于 wot-design-uni 的 uni-app 快速启动模板。
 - ![vue3] [unibest](https://github.com/codercup/unibest) ![stars](https://img.shields.io/github/stars/codercup/unibest) - uni-app 开发框架，内置大量基础功能，提供大量辅助功能。
-- ![vue3] [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse) ![stars](https://img.shields.io/github/stars/Ares-Chang/uni-vitesse) - 环境配置 Copy From [Vitesse-lite](https://github.com/antfu/vitesse-lite), 力求一个开发体验良好的环境配置。
+- ![vue3] [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse) ![stars](https://img.shields.io/github/stars/Ares-Chang/uni-vitesse) - uni-app 版的 vitesse-lite
 
 ## 演示
 

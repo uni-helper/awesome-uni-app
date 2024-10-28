@@ -71,6 +71,7 @@
 - ![vue3] [uniapp-template](https://github.com/yang1206/uniapp-template) ![stars](https://img.shields.io/github/stars/yang1206/uniapp-template) - 基于 Vite、UnoCSS 和 TypeScript 的 uni-app 起始模版。
 - ![vue3] [wot-starter](https://github.com/Moonofweisheng/wot-starter) ![stars](https://img.shields.io/github/stars/Moonofweisheng/wot-starter) - 基于 wot-design-uni 的 uni-app 快速启动模板。
 - ![vue3] [unibest](https://github.com/codercup/unibest) ![stars](https://img.shields.io/github/stars/codercup/unibest) - uni-app 开发框架，内置大量基础功能，提供大量辅助功能。
+- ![vue3] [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse) ![stars](https://img.shields.io/github/stars/Ares-Chang/uni-vitesse) - uni-app 版的 vitesse-lite
 - ![vue3] [uni-preset-vue3-vite](https://github.com/gitboyzcf/uni-preset-vue3-vite) ![stars](https://img.shields.io/github/stars/gitboyzcf/uni-preset-vue3-vite) - 基于 Vue3、Pinia、Vite、UnoCSS、nutui-uniapp，简单快速使用 uni-app 开发小程序和 H5
 
 ## 演示
@@ -85,6 +86,7 @@
 - ![vue3] [uni-use](https://github.com/uni-helper/uni-use) ![stars](https://img.shields.io/github/stars/uni-helper/uni-use) - uni-app 组合式工具集。
 - [unocss-applet](https://github.com/unocss-applet/unocss-applet) ![stars](https://img.shields.io/github/stars/unocss-applet/unocss-applet) - 在小程序中使用 UnoCSS，兼容不支持的语法。
 - [unocss-preset-uni](https://github.com/uni-helper/unocss-preset-uni) ![stars](https://img.shields.io/github/stars/uni-helper/unocss-preset-uni) - 专为 uni-app 打造的 UnoCSS 预设。
+- [uni-use-router](https://github.com/Ares-Chang/uni-use-router) ![stars](https://img.shields.io/github/stars/Ares-Chang/uni-use-router) - uni-app 路由补充，与 vue-router 语法靠近。
 
 ## UI 组件库
 

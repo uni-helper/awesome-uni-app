@@ -42,7 +42,7 @@
 [vue-cli]: https://img.shields.io/badge/-Vue%20Cli-3eb782
 [nvue]: https://img.shields.io/badge/-!NVue-ff0000
 [vscode]: https://img.shields.io/badge/-VSCode-3c7fba?logo=visual-studio-code
-[webstorm]: https://img.shields.io/badge/IDE-WebStorm-000000?style=flat-square&logo=WebStorm
+[webstorm]: https://img.shields.io/badge/-WebStorm-000000?logo=WebStorm
 [typescript]: https://img.shields.io/npm/types/typescript
 
 在下面的内容中，我们使用徽章来指示部分组件、库、插件的版本、平台、语言兼容性，其中徽章的颜色和开头用来表示支持程度。

@@ -117,7 +117,7 @@
 - ![vite] [vite-plugin-uni-components](https://github.com/uni-helper/vite-plugin-uni-components) ![stars](https://img.shields.io/github/stars/uni-helper/vite-plugin-uni-components) - 适用于 uni-app 的按需自动引入组件。
 - ![vite] [vite-plugin-uni-platform-modifier](https://github.com/uni-helper/vite-plugin-uni-platform-modifier) ![stars](https://img.shields.io/github/stars/uni-helper/vite-plugin-uni-platform-modifier) - 为属性、指令提供平台修饰符并按需编译。
 - ![vite] ![vue3] [uni-ku-root](https://github.com/uni-ku/root) ![stars](https://img.shields.io/github/stars/uni-ku/root) - 一个模拟 App.vue 原有能力的根组件插件
-- ![vite] ![vue3] [vite-plugin-uni-cdn](https://github.com/cnguu/vite-plugin-uni-cdn) ![stars](https://img.shields.io/github/stars/cnguu/vite-plugin-uni-cdn) - 在 UniApp 中替换静态资源链接为 CDN 链接
+- ![vite] ![vue3] [vite-plugin-uni-cdn](https://github.com/cnguu/vite-plugin-uni-cdn) ![stars](https://img.shields.io/github/stars/cnguu/vite-plugin-uni-cdn) - 在 uni-app 中替换静态资源链接为 CDN 链接
 
 ## 编辑器 / IDE 插件
 

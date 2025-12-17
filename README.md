@@ -70,7 +70,7 @@
 - ![vue3] [vitesse-uni-app](https://github.com/uni-helper/vitesse-uni-app) ![stars](https://img.shields.io/github/stars/uni-helper/vitesse-uni-app) - 由 uni-helper 支持的开始模板。
 - ![vue3] [unisave](https://github.com/sunpm/unisave) ![stars](https://img.shields.io/github/stars/sunpm/unisave) - 拥抱 web 开发，拯救 uniapp。适配所有(app、mp、web)平台！！！
 - ![vue3] [uniapp-template](https://github.com/yang1206/uniapp-template) ![stars](https://img.shields.io/github/stars/yang1206/uniapp-template) - 基于 Vite、UnoCSS 和 TypeScript 的 uni-app 起始模版。
-- ![vue3] [wot-starter](https://github.com/Moonofweisheng/wot-starter) ![stars](https://img.shields.io/github/stars/Moonofweisheng/wot-starter) - 基于 wot-design-uni 的 uni-app 快速启动模板。
+- ![vue3] [wot-starter](https://github.com/wot-ui/wot-starter) ![stars](https://img.shields.io/github/stars/wot-ui/wot-starter) - 飞一般开发体验的 uni-app 模板，基于 vitesse-uni-app 和 wot-ui 构建。
 - ![vue3] [unibest](https://github.com/codercup/unibest) ![stars](https://img.shields.io/github/stars/codercup/unibest) - uni-app 开发框架，内置大量基础功能，提供大量辅助功能。
 - ![vue3] [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse) ![stars](https://img.shields.io/github/stars/Ares-Chang/uni-vitesse) - uni-app 版的 vitesse-lite
 - ![vue3] [uni-preset-vue3-vite](https://github.com/gitboyzcf/uni-preset-vue3-vite) ![stars](https://img.shields.io/github/stars/gitboyzcf/uni-preset-vue3-vite) - 基于 Vue3、Pinia、Vite、UnoCSS、nutui-uniapp，简单快速使用 uni-app 开发小程序和 H5

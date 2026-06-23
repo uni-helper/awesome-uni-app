@@ -62,6 +62,7 @@
 ## Cli
 
 - ![vite] ![vue3] [create-uni](https://github.com/uni-helper/create-uni) ![stars](https://img.shields.io/github/stars/uni-helper/create-uni) 🛠️ 快速创建 uni-app 项目
+- ![vite] ![vue3] [unh](https://github.com/uni-helper/unh) - 二次封装的启动命令，可以自定义hooks
 
 ## 模板
 
@@ -135,3 +136,7 @@
 ## 类型
 
 - ![typescript] [uni-typed](https://github.com/uni-helper/uni-typed) ![stars](https://img.shields.io/github/stars/uni-helper/uni-typed) - uni-app、uni-cloud、uni-ui 组件类型支持。
+
+## Agent Skills
+
+- [skills](https://github.com/uni-helper/skills) - uni-app skills

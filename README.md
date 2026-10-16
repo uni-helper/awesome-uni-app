@@ -76,6 +76,7 @@
 - ![vue3] [uni-vitesse](https://github.com/Ares-Chang/uni-vitesse) ![stars](https://img.shields.io/github/stars/Ares-Chang/uni-vitesse) - uni-app 版的 vitesse-lite
 <!-- - ![vue3] [uni-preset-vue3-vite](https://github.com/gitboyzcf/uni-preset-vue3-vite) ![stars](https://img.shields.io/github/stars/gitboyzcf/uni-preset-vue3-vite) - 基于 Vue3、Pinia、Vite、UnoCSS、nutui-uniapp，简单快速使用 uni-app 开发小程序和 H5 -->
 - ![vue3] ![vite] [uni-hbx-vite](https://github.com/cnguu/uni-hbx-vite) ![stars](https://img.shields.io/github/stars/cnguu/uni-hbx-vite) - uni-app 项目快速启动，同时支持 HBX 运行和 CLI 运行
+- ![vue3] ![vite] [uniapp-vue3-template](https://github.com/oyjt/uniapp-vue3-template) ![stars](https://img.shields.io/github/stars/oyjt/uniapp-vue3-template) - 基于 Vue 3、TypeScript、Vite、uview-plus 和 UnoCSS 的 uni-app 团队协作开发模板。
 
 ## 演示
 
